@@ -4,5 +4,3 @@ Langauges: Python, Javascript, Java, C++, C#, SQL
 
 Frameworks & Tools: React, Node.js, Express, Flask, Uv Ruff, Ty, GitHub Actions, MongoDB
 
-Contact
-- collinmdonnan@gmail.com
