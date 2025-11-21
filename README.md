@@ -1,16 +1,22 @@
-## Hi there 👋
+Im currently a computer science and mathematics student at Millersville University and an aspiring software engineer.
 
-<!--
-**CollinDonnan/CollinDonnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Langauges: 
+- Python
+- Javascript
+- Java
+- C++
+- C#
+- SQL
 
-Here are some ideas to get you started:
+Frameworks & Tools: 
+- React
+- Node.js
+- Express
+- Flask
+- Uv Ruff
+- Ty
+- GitHub Actions
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+- collinmdonnan@gmail.com
