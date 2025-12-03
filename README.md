@@ -9,5 +9,5 @@ Im a computer science and mathematics student at Millersville University and an 
 
 Langauges: Python, Javascript, Java, C++, C#, SQL
 
-Frameworks & Tools: React, Node.js, Express, Flask, Uv Ruff, Ty, GitHub Actions, MongoDB, AWS
+Frameworks & Tools: React, Node.js, Express, Flask, Spring Boot, GitHub Actions, MongoDB, AWS
 
